@@ -1,0 +1,10 @@
+CIENCIAS PARA LA CIUDADANÍA · ENTRENADOR DOCENTE 2024 · V3
+
+1. Abra index.html en Chrome, Safari, Edge o Firefox.
+2. Funciona sin internet.
+3. La versión V3 usa gráficos, esquemas y pictogramas redibujados en SVG para mayor nitidez.
+4. Las preguntas y las alternativas aparecen en orden aleatorio en cada sesión.
+5. El progreso se guarda localmente en el navegador.
+6. La interfaz está optimizada para computador, tablet y teléfono.
+
+Nota: el puntaje estándar mostrado al final es referencial y usa la conversión implementada en la app; no sustituye una tabla oficial de conversión.

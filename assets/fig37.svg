@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="Pictograma de sustancia inflamable">
+<defs>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="7" stdDeviation="10" flood-opacity=".10"/></filter>
+ <linearGradient id="g1" x1="0" x2="1"><stop offset="0" stop-color="#0ea5b7"/><stop offset="1" stop-color="#7c6cf2"/></linearGradient>
+ <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2" fill="#80cbb7" opacity=".8"/></pattern>
+ <pattern id="dry" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M0 12L12 0" stroke="#d0ad67" stroke-width="3" opacity=".55"/></pattern>
+</defs>
+<rect x="0" y="0" width="900" height="460" rx="24" fill="#f7fbfd"/>
+<text x="40" y="50" font-family="Arial" font-size="24" font-weight="800" fill="#183247">Pictograma de peligro</text><g transform="translate(300,100)"><rect x="40" y="40" width="210" height="210" transform="rotate(45 145 145)" rx="10" fill="#fff" stroke="#d85a6a" stroke-width="14"/><path d="M147 235 C105 220 88 188 103 158 C113 138 126 132 128 107 C145 121 153 142 151 161 C166 149 174 127 170 104 C203 133 218 162 210 191 C203 218 179 236 147 235 Z" fill="#172a38"/><path d="M151 214 C134 205 128 190 134 176 C139 166 146 161 149 148 C162 160 170 177 165 191 C173 186 178 177 180 166 C192 186 183 208 168 216 Z" fill="#fff"/></g><text x="450" y="420" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#d85a6a">GHS02 · Llama</text>
+</svg>
